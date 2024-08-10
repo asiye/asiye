@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**asiye/asiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Asiye, a Full Stack Developer specializing in Solidity, Python, Node.js, and .NET. I'm passionate about creating impactful software and exploring the world of AI.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
+- **Languages:** Solidity, Python, JavaScript, C#
+- **Frameworks:** .NET Core, Express.js
+- **Databases:** SQL Server, MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on
+- An AI-enhanced project for smart contracts
+
+### 🌱 I’m currently learning
+- Advanced AI techniques and machine learning
+
+### 💬 Need Help?
+- If you need help with any repository or source code, feel free to ask me. If there's something you couldn't do, I can help!
+
+### 📫 How to reach me
+- [Email](mailto:asi.khosh@gmail.com)
